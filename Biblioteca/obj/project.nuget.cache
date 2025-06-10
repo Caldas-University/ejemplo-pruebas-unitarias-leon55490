@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "mLu1MMK6APQ=",
+  "dgSpecHash": "mGM60caQxsU=",
   "success": true,
-  "projectFilePath": "C:\\src\\ISII\\ReservaBibliotecaSolution_NET8_NUnit\\Biblioteca\\Biblioteca.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\leon5\\Downloads\\taller\\ejemplo-pruebas-unitarias-leon55490\\Biblioteca\\Biblioteca.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leon5\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.16\\microsoft.netcore.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\leon5\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.16\\microsoft.windowsdesktop.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\leon5\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.16\\microsoft.aspnetcore.app.ref.8.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

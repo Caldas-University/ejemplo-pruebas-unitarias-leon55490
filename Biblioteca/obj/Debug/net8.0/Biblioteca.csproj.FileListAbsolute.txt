@@ -9,3 +9,15 @@ C:\src\ISII\ReservaBibliotecaSolution_NET8_NUnit\Biblioteca\obj\Debug\net8.0\Bib
 C:\src\ISII\ReservaBibliotecaSolution_NET8_NUnit\Biblioteca\obj\Debug\net8.0\refint\Biblioteca.dll
 C:\src\ISII\ReservaBibliotecaSolution_NET8_NUnit\Biblioteca\obj\Debug\net8.0\Biblioteca.pdb
 C:\src\ISII\ReservaBibliotecaSolution_NET8_NUnit\Biblioteca\obj\Debug\net8.0\ref\Biblioteca.dll
+C:\Users\leon5\Downloads\taller\ejemplo-pruebas-unitarias-leon55490\Biblioteca\bin\Debug\net8.0\Biblioteca.deps.json
+C:\Users\leon5\Downloads\taller\ejemplo-pruebas-unitarias-leon55490\Biblioteca\bin\Debug\net8.0\Biblioteca.dll
+C:\Users\leon5\Downloads\taller\ejemplo-pruebas-unitarias-leon55490\Biblioteca\bin\Debug\net8.0\Biblioteca.pdb
+C:\Users\leon5\Downloads\taller\ejemplo-pruebas-unitarias-leon55490\Biblioteca\obj\Debug\net8.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leon5\Downloads\taller\ejemplo-pruebas-unitarias-leon55490\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\leon5\Downloads\taller\ejemplo-pruebas-unitarias-leon55490\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfo.cs
+C:\Users\leon5\Downloads\taller\ejemplo-pruebas-unitarias-leon55490\Biblioteca\obj\Debug\net8.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\leon5\Downloads\taller\ejemplo-pruebas-unitarias-leon55490\Biblioteca\obj\Debug\net8.0\Biblioteca.sourcelink.json
+C:\Users\leon5\Downloads\taller\ejemplo-pruebas-unitarias-leon55490\Biblioteca\obj\Debug\net8.0\Biblioteca.dll
+C:\Users\leon5\Downloads\taller\ejemplo-pruebas-unitarias-leon55490\Biblioteca\obj\Debug\net8.0\refint\Biblioteca.dll
+C:\Users\leon5\Downloads\taller\ejemplo-pruebas-unitarias-leon55490\Biblioteca\obj\Debug\net8.0\Biblioteca.pdb
+C:\Users\leon5\Downloads\taller\ejemplo-pruebas-unitarias-leon55490\Biblioteca\obj\Debug\net8.0\ref\Biblioteca.dll
